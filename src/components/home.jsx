@@ -7,10 +7,10 @@ import Footer from './footer.jsx';
 const House = '/assets/house.png';
 const Connect = '/assets/connect.png';
 const MeetUp = '/assets/meetUp.png';
-const Daisy = '/assets/daisy.png';
-const Kat = '/assets/kat.png';
-const Jarrett = '/assets/jarrett.png';
-const Ivey = '/assets/ivey.png';
+const Michael = 'https://media.licdn.com/media/p/6/005/075/033/2bc11bd.jpg';
+const Nam = 'https://media.licdn.com/media/p/4/000/17f/16c/27d4053.jpg';
+const Natasha = 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAf0AAAAJDA4YmVmOGVjLWI2MzktNDRjOC1iZTFjLWM1M2I3NDkxZDI4OQ.jpg';
+const Vi = 'https://avatars3.githubusercontent.com/u/16070642?v=3&s=466';
 const rent = '/assets/rent.png';
 
 // Stateless Components
@@ -105,24 +105,24 @@ class Home extends React.Component {
         <div className='team'>
           <div className='row'>
             <TeamIcon
-              url={Daisy}
-              display={'Daisy Good'}
-              link={'https://www.linkedin.com/in/daisy-good-49a2a46a'}
+              url={Michael}
+              display={'Michael Oliver'}
+              link={'https://www.linkedin.com/in/j-michael-oliver'}
             />
             <TeamIcon
-              url={Kat}
-              display={'Kat Gurdak'}
-              link={'https://www.linkedin.com/in/katgurdak'}
+              url={Nam}
+              display={'Nam Huynh'}
+              link={'https://www.linkedin.com/in/nam-huynh'}
             />
             <TeamIcon
-              url={Jarrett}
-              display={'Jarrett Kennedy'}
-              link={'https://www.linkedin.com/in/jarrettk'}
+              url={Natasha}
+              display={'Natasha Che'}
+              link={'https://www.linkedin.com/in/natashache'}
             />
             <TeamIcon
-              url={Ivey}
-              display={'Ivey Topaz'}
-              link={'https://www.linkedin.com/in/ivey-topaz-765a85124'}
+              url={Vi}
+              display={'Vi'}
+              link={'https://www.linkedin.com/in/vivian-vi-vo-22979380'}
             />
           </div>
         </div>
