@@ -148,12 +148,30 @@ img {
   height: 220px;
   z-index: 1;
   position: relative;
-  border: 5px solid gainsboro
+  border: 5px solid gainsboro;
+  overflow: hidden;  /*added to fix stretch*/
 }
 
 .profile .profile-image img {
   width: 100%;
   height: 100%;
+}
+
+.profile .profile-image-dog {
+  display: inline-block;
+  width: 220px;
+  height: 220px;
+  z-index: 1;
+  position: relative;
+  border: 5px solid gainsboro;
+  overflow: hidden;  /*added to fix stretch*/
+}
+
+.profile .profile-image-dog img {
+  width: auto;   /*original 100%*/
+  height: 100%;
+  margin-left: -110px;
+  left: 50%;
 }
 
 
@@ -185,19 +203,26 @@ img {
 }
 
 .profile-image-dog-details {
-  display: inline-block;
+  display:  inline-block;
   width: 300px;
   height: 300px;
   z-index: 1;
   position: relative;
+  overflow: hidden;
+
+
+
   /*border: 5px solid gainsboro*/
 }
 
 .profile-image-dog-details img {
-  width: 300px;
-  height: 300px;
-}
+  width: auto;
+  height: 100%;
+  /*height: 300px;*/
+  margin-left: -150px;
+  left: 50%;
 
+}
 
 .profile .profile-info {
   height: 100%;
@@ -206,6 +231,7 @@ img {
   display: inline-block;
   margin-top: 10px;
   margin-bottom: 10px;
+
 }
 
 .profile .profile-header {
