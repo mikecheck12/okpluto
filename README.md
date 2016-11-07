@@ -1,12 +1,10 @@
 # Ok Pluto
 
-> Social site for dogs and their owners
+> Online platform for dog rental and socializing with other dog owners
 
 ## Team
 
-  - __Product Owner__: Daisy Good
-  - __Scrum Master__: Ivey Topaz
-  - __Development Team Members__: Kat Gurdak, Jarrett Kennedy
+> Michael Oliver, Nam Nuynh, Natasha Che, Vi Vo
 
 ## Table of Contents
 
@@ -25,7 +23,7 @@ The back-end uses Node with Express, and MongoDB with Mongoose. The Gruntfile co
 ```sh
 server.js
 app
-|---routes 
+|---routes
     |   routes.js - contains all API endpoints to access database, and outside APIs
 |---models - Holds all DB schemas
     |   events.js
@@ -78,10 +76,5 @@ grunt
 
 Will open a DB connection, and compile and run the program. Can run grunt build to just compile. If you have a watch running and it errors out, you may need to run `killall node` before restarting
 
-### Feature To Do List
 
-* Add photo uploading
-* Lessen API calls to Google Distance Matrix
-* Add messaging between users and comments on events
-* Display more info events displays (map to location, or accurate address)
 

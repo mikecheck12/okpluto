@@ -59,9 +59,9 @@ class Home extends React.Component {
         <Navigation auth={this.props.auth}/>
         <div className='jumbotron main-image' >
           <div className='container'>
-            <h1>Ok Pluto</h1>
-            <h2>Online playground</h2>
-            <h2>for your best friend</h2>
+            <h1>OkPluto</h1>
+            <h2>The earth's No. 1</h2>
+            <h2>doggie rental and meetup service</h2>
           </div>
         </div>
 
@@ -78,6 +78,12 @@ class Home extends React.Component {
               link={'https://evening-bayou-76161.herokuapp.com/#/users'}
             />
             <IconItem
+              url={rent}
+              display={'RENT A DOG'}
+              info={'Too busy to own your own dog? Check out some local dogs available for rent!'}
+              link={'https://evening-bayou-76161.herokuapp.com/#/rental'}
+            />
+            <IconItem
               url={MeetUp}
               display={'MEET UP'}
               info={'We make it easy for you to set up walks and dog park meet ups with other local dog owners'}
@@ -86,14 +92,8 @@ class Home extends React.Component {
             <IconItem
               url={House}
               display={'ADOPT A DOG'}
-              info={'Don\'t have a dog? No worries! Adopt your new best friend at a shelter near you!'}
+              info={'Don\'t have a dog but want one? No worries! Adopt your new best friend at a shelter near you!'}
               link={'https://www.petfinder.com/animal-shelters-and-rescues/search'}
-            />
-            <IconItem
-              url={rent}
-              display={'RENT A DOG'}
-              info={'Too busy to own your own dog? Check out some local dogs available for rent!'}
-              link={'https://evening-bayou-76161.herokuapp.com/#/rental'}
             />
           </div>
         </div>

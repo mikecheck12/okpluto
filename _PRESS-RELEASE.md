@@ -16,27 +16,24 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
 
-## Online playground for your best friend ##
+## Rent your dog and connect with other dog owners ##
 
 ## Summary ##
-  Connect with dog owners in your area, arrange dog park meetups, and even find a friendly face to dog sit for you.
+  Connect with dog owners in your area, arrange dog park meetups, and rent out your dog to others for playdates.
 
 ## Why You Need Us ##
-  Do you and Fido ever find yourselves all alone at the dog park? Have you ever had trouble finding a dog sitter for a night out of town? Read on and all your problems will be solved.
+  You have many friends, but your pup can only play with you. How unfair? With OkPluto you can rent out your pup to other dog lovers while earning money with which you can buy your dog more bully sticks. The result: everyone is happier!
 
 ## What We Do ##
-  Ok Pluto lets you easily find nearby dog owners and make plans to meet up and take your buddies for a walk, or go to the dog park. You can also search for other dog lovers to dog sit for you.
+  Ok Pluto lets you easily rend out your dog to others in the area and also arrange meetups with other dog owners.
 
-## Quote from You ##
-  ""
-  --Daisy Good, Product Owner
 
 ## How to Get Started ##
-  With Ok Pluto, it's easy as signing up, connecting your dog to the internet, and voila, Fido is ready to make some new friends!
+  With Ok Pluto, it's easy as signing up, connecting your dog to the internet, and voila, Fido is ready to be rented out!
 
 ## Customer Quote ##
-  "Eleanor has more friends than I do now."
+  "Eleanor has more friends than I do now. And I have the money to buy Eleanor food."
   --Connor C.
 
 ## Closing and Call to Action ##
-  So hey, what are you paw-sing for? Go to Ok Pluto today and find a best friend for your best friend.
+  So hey, what are you paw-sing for? Go to Ok Pluto today and rent out your pup.
