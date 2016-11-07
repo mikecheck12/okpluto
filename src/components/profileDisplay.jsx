@@ -33,7 +33,7 @@ class ProfileDisplay extends React.Component {
               <h4><em>Location:</em> {this.props.userInfo.loc}</h4>
               <h4><em>Email:</em> {this.props.userInfo.email}</h4>
             </Paper> <br/>
-            <div className="profile-image">
+            <div className="profile-image-dog">
               <img src={this.props.userInfo.picLink} alt="Pic"/>
             </div> <br/>
             <Paper className="profile-info" zDepth={1} rounded={false}>
