@@ -61,12 +61,13 @@ class Home extends React.Component {
           <div className='container'>
             <h1>OkPluto</h1>
             <h2>The earth's No. 1</h2>
-            <h2>doggie rental and meetup service</h2>
+            <h2>doggie rental </h2>
+            <h2>and meetup service</h2>
           </div>
         </div>
 
         <div className='row section-heading'>
-          <p>Get to know fellow dog owners in your area</p>
+          <p>What We Offer</p>
         </div>
 
         <div className='container icons'>
