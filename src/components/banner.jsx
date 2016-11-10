@@ -15,6 +15,12 @@ const Banner = (props) => {
         <h1>{props.display}</h1>
       </div>
     )
+  } else if (props.profileType === "userProfile") {
+     return (
+       <div className="banner">
+         <h1>{"Hello, " + props.display.firstname}</h1>
+       </div>
+     )
   } else {
     return (
       <div className="banner">

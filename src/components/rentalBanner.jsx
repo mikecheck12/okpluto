@@ -9,3 +9,13 @@ const RentalBanner = (props) => (
 )
 
 module.exports = RentalBanner;
+
+
+
+ // else if (props.profileType = "userProfile") {
+ //    return (
+ //      <div className="banner">
+ //        <h1>{"Hello " + props.display.firstname}</h1>
+ //      </div>
+ //    )
+ //  }
